@@ -234,8 +234,8 @@ main > section {
 
 .hero-photo {
   position: relative;
-  width: min(100%, 460px);
-  aspect-ratio: 1;
+  width: min(100%, 360px);
+  aspect-ratio: 0.82;
   justify-self: center;
 }
 
@@ -395,7 +395,7 @@ main > section {
   }
 
   .hero-photo {
-    width: min(100%, 340px);
+    width: min(100%, 280px);
     margin-right: 1rem;
   }
 
