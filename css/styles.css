@@ -127,7 +127,7 @@ h2 {
   position: absolute;
 }
 
-/* Layout: shared width for every block of the page */
+/* Layout: ancho compartido por todos los bloques de la página */
 
 .site-header,
 main > section,
@@ -140,7 +140,7 @@ main > section {
   padding-block: clamp(2.5rem, 7vw, 5rem);
 }
 
-/* Top bar and header */
+/* Barra superior y encabezado */
 
 .announcement {
   padding: 0.6rem 1rem;
@@ -257,7 +257,7 @@ main > section {
   clip-path: url(#frame-shape);
 }
 
-/* Projects */
+/* Proyectos */
 
 .projects h2 {
   margin-bottom: 2rem;
@@ -344,7 +344,7 @@ main > section {
   font-weight: 700;
 }
 
-/* About and contact */
+/* Sobre mí y contacto */
 
 .about {
   display: grid;
@@ -385,7 +385,7 @@ main > section {
   font-size: 0.9rem;
 }
 
-/* Small screens */
+/* Pantallas pequeñas */
 
 @media (max-width: 820px) {
   .hero,
